@@ -1,6 +1,6 @@
 # npmtest-stylus
 
-#### test coverage for  [stylus (v0.54.5)](https://github.com/stylus/stylus)  [![npm package](https://img.shields.io/npm/v/npmtest-stylus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stylus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stylus.svg)](https://travis-ci.org/npmtest/node-npmtest-stylus)
+#### basic test coverage for  [stylus (v0.54.5)](https://github.com/stylus/stylus)  [![npm package](https://img.shields.io/npm/v/npmtest-stylus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stylus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stylus.svg)](https://travis-ci.org/npmtest/node-npmtest-stylus)
 
 #### Robust, expressive, and feature-rich CSS superset
 
